@@ -10,13 +10,9 @@ body {
 .user-list {
   display: flex;
   flex-wrap: wrap;
-  padding: 100px;
+  padding: 100px 400px;
   justify-content: center;
 }
-
-/* .user-item{
-  display: flex;
-} */
 
 .user-item-card {
   display: flex;
